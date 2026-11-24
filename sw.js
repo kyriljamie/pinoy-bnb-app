@@ -1,7 +1,7 @@
 // Pinoy BnB web: keeps the app's own files on the device so it opens without internet, and
 // shows the pictures saved in this browser (guest IDs, payment screenshots, incident photos).
 // Your data is never sent here; it stays in this browser. Licence checks always go online.
-const CACHE = 'pbnb-app-v3';
+const CACHE = 'pbnb-app-v4';
 // Only this app's old caches are removed (Rentals lives on the same site with its own).
 const FILE_DB = 'pinoy-bnb-files';
 const FILE_STORE = 'blobs';
